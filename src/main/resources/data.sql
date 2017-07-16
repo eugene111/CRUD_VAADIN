@@ -1,0 +1,4 @@
+INSERT INTO customers (name, second_name, surname, telephone) VALUES ( 'Customer1', 'Customer1', 'Customer1', '88007076565' );
+INSERT INTO customers (name, second_name, surname, telephone) VALUES ( 'Customer2', 'Customer2', 'Customer2', '88007072222' );
+INSERT INTO orders (description, customer_id, customer_surname, order_date, completion_date, price, status) VALUES ('Nothing To Do)))', 0, 'Customer1', '2017-07-16', '2017-07-30', 9.75, 'Planned');
+INSERT INTO orders (description, customer_id, customer_surname, order_date, completion_date, price, status) VALUES ('I Wanna Work', 1, 'Customer2', '2017-07-16', '2017-07-30', 47.5, 'Planned');

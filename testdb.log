@@ -1,0 +1,3 @@
+/*C3*/SET SCHEMA PUBLIC
+INSERT INTO CUSTOMERS VALUES(47,'null','null','null','null')
+COMMIT
